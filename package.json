@@ -1,0 +1,24 @@
+{
+  "name": "sniffy",
+  "version": "1.0.0",
+  "description": "A simple function for debugging stuff like promise chains, streams and other pipeline-like thingees. It just creates a function that console logs whatever is passed to it and then returns that value.  (Compatible with React Native. This does the same as MPJ's library 'supersniff' but without the possibility to log to a file)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YassineGherbi/sniffy.git"
+  },
+  "keywords": [
+    "logger",
+    "promises",
+    "debugging"
+  ],
+  "author": "Yassine Gherbi <y.gherbi.dev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YassineGherbi/sniffy/issues"
+  },
+  "homepage": "https://github.com/YassineGherbi/sniffy#readme"
+}
